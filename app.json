@@ -1,0 +1,26 @@
+{
+  "id": "d6f45581-675b-41d5-a244-f5a9d36751fe",
+  "name": "Job Customization",
+  "publisher": "Priority One Solutions",
+  "version": "1.0.18.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./Logo/PriorityOneLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 60051,
+      "to": 60100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://PO_Job_Customization.com/help/",
+  "showMyCode": false,
+  "runtime": "7.0"
+}
